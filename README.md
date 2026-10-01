@@ -14,6 +14,8 @@ npm run test       # tests du moteur (Vitest)
 npm run calibrate  # simule une saison complète et affiche les moyennes de la ligue
 ```
 
+Test du rendu Phaser (futur mode match jouable) : ouvrir l'URL avec `?court`.
+
 ## Ce que le jeu contient
 
 - **Ligue générée** : 30 franchises réparties en 2 conférences et 6 divisions, 14 joueurs par
